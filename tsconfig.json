@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"target": "ES6",
+		"module": "ES2015",
+		"lib": ["es6", "es7", "esnext", "dom"],
+		"moduleDetection": "force",
+		"moduleResolution": "Node",
+		"alwaysStrict": true,
+		"sourceMap": true
+	}
+}
